@@ -14,6 +14,11 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "OpenAI Parameter Generator",
+  "categories": [
+  "UTILITY",
+  "TAG_MANAGEMENT",
+  "ANALYTICS"
+],
   "description": "Generates OpenAI parameters from dataLayer or custom array objects.",
   "containerContexts": [
     "WEB"
@@ -31,7 +36,7 @@ ___TEMPLATE_PARAMETERS___
     "radioItems": [
       {
         "value": "contents",
-        "displayValue": "contents [ {} ]"
+        "displayValue": "contents"
       },
       {
         "value": "currency",
