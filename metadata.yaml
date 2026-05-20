@@ -1,5 +1,5 @@
 homepage: "https://github.com/RHR07"
 documentation: "https://github.com/RHR07/gtm-openai-parameter-generator"
 versions:
-  - sha: fa94aa1507527bae7ebe29c57d30c3c25fd504f4
+  - sha: 1d6fa041623b1e9bc272cf70e04837a8bbc41526
     changeNotes: Initial release
